@@ -1,5 +1,4 @@
-'''过滤列表中负数
-'''
+'''过滤列表中负数'''
 import random
 numbers = [random.randint(-10, 10) for _ in range(10)]
 print('Original List:{}'.format(numbers))

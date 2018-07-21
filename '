@@ -1,6 +1,5 @@
 '''如何快速找到多个字典中的公共键
-球员进球统计
-'''
+球员进球统计'''
 import random
 import functools
 names = 'ABCDEF'

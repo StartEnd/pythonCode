@@ -1,3 +1,4 @@
+'''random.uniform使用'''
 import random
 
 # 传入最小值和最大值 min + (max - min) * random()
